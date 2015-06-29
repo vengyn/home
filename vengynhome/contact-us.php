@@ -91,7 +91,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											</footer>
 										</section>
 									</section>
-							
+							</div>
 							<div class="8u$ 12u$(medium) important(medium)">
 								<!-- Content -->
 									<section id="content image">
@@ -100,12 +100,13 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 									</section>
 								<div class="4u$ 12u$(medium) important(medium)">
 									<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+								<div class="4u$ 12u$(medium) important(medium)">
 									<p>Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
 							</div>
 							</div>
-							</div>
 						</div>
 						</div>
+					</div>
 					</div>
 
 										<!-- Footer -->
