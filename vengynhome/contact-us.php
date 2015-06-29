@@ -98,10 +98,12 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										<a href="#" class="image fit"><img src="http://www.hotelroomsearch.net/im/2015/04/geneva-switzerland-9.jpg" alt="" /></a>
 										<h3>Meet the Members of the Vengyn Team</h3>
 									</section>
-								<div class="6u$ 12u$(medium) important(medium)">
+								<div class="4u$ 12u$(medium) important(medium)">
 									<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+									<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
 								</div>
-								<div class="6u$ 12u$(medium) important(medium)">
+								<div class="4u$ 12u$(medium) important(medium)">
+									<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
 									<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
 								</div>
 							</div>
