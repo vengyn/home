@@ -102,9 +102,9 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										
 										
 										<div style="float:left; width:40%;">
-										<center>
+										
 										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
-										</center>
+										
 										</div>	
 										<div style="float:center; width:1%; margin: 5px;">
 										</div>
