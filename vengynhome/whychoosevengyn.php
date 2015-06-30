@@ -51,7 +51,7 @@
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>Elements</h2>
+							<h2>Virtual Private Networks</h2>
 							<p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
 						</header>
 
