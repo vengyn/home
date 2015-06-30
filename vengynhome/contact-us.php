@@ -84,6 +84,11 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 											<a href="#" class="image fit"><img src="http://yourtripideas.com/wp-content/uploads/2015/04/Switzerland-newholidays-besttravel.jpg" alt="" /></a>
 											<h3>Amet Lorem Tempus</h3>
 											<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+											<footer>
+												<ul class="actions">
+													<li><a href="#" class="button">Learn More</a></li>
+												</ul>
+											</footer>
 										</section>
 									</section>
 							</div>
@@ -93,16 +98,22 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										<a href="#" class="image fit"><img src="http://www.hotelroomsearch.net/im/2015/04/geneva-switzerland-9.jpg" alt="" /></a>
 										<h3>Meet the Members of the Vengyn Team</h3>
 									</section>
-									<div style="width:100%;">	
+									<div style="width:100%;">
+										
+										
 										<div style="float:left; width:40%;">
+										
 										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+										
 										</div>	
-										<div style="float:center; width:10%;">
+										<div style="float:center; width:1%; margin: 5px;">
 										</div>
 										<div style="float:right; width:40%;">
 										<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
-										</div>										
-									</div>			
+										</div>					
+															
+									</div>
+								
 							</div>
 						</div>
 						</div>
