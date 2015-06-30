@@ -101,14 +101,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 									<div style="width:100%;">
 										<div style="float:left; width:40%;">
 										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
-										</div>
-										<div style="float:right; width:40%;">
-										<p>Test, Test, test massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
-										</div>									
-									</div>
-										<div style="width:100%;">
-										<div style="float:left; width:40%;">
-										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+										</div>	
+										<div style="float:center; width:3px;">
 										</div>
 										<div style="float:right; width:40%;">
 										<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
@@ -117,6 +111,18 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 										<div style="width:100%;">
 										<div style="float:left; width:40%;">
 										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+										</div>	
+										<div style="float:center; width:3px;">
+										</div>
+										<div style="float:right; width:40%;">
+										<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
+										</div>									
+									</div>
+										<div style="width:100%;">
+										<div style="float:left; width:40%;">
+										<a href="#" class="image fit"><img src="http://aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" alt="" /></a>							
+										</div>	
+										<div style="float:center; width:3px;">
 										</div>
 										<div style="float:right; width:40%;">
 										<p>Aliquam massa urna, phppppppp imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
