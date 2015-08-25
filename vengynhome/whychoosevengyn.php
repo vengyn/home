@@ -52,7 +52,7 @@
 					<div class="container">
 						<header class="major">
 							<h2>Virtual Private Networks</h2>
-							<p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
+							<p>Our VPN service is a pool of both exisiting VPNs, private nodes and beta softwares (p2p).</p>
 						</header>
 
 						<!-- Text -->
