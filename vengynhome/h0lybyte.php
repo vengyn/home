@@ -1,5 +1,5 @@
 <?php
-echo "testing node js";
+echo "testing hhvm";
 
 ?>
 pgp
