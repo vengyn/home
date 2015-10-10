@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-ng-app="app">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,6 +29,10 @@
 	 <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/retina-1.1.0.js"></script>
+    <!-- 
+    <script src="/dashboard/angular/"></script>
+    
+    !-->
   </head>
 	<script>
 		document.getScrollY= function(){
@@ -59,7 +63,7 @@
 	</script>
   
   
-  <body>
+  <body ng-controller="AppCtrl">
 
     <div id="h">
     <!--  <div class="logo">Vengyn</div>
@@ -244,7 +248,7 @@
       <div class="container">
         <div class="row centered">
           <h2>You Can Contact Us</h2>
-          <h5>HELLO@LANDINGSUMO.COM</h5>
+          <h5>HELLO@VENGYN.COM</h5>
 
           <p class="mt">
 		  <!--
